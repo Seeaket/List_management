@@ -1,2 +1,1 @@
-# List_management
-优化代码，添加crtdbg.h函数对程序进行检测，通过new分配内存的专属检测，对链表赋值为nullptr的内存泄漏考虑
+
